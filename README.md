@@ -4,7 +4,7 @@
 🔭 I’m currently working on MERN<br>👯 I’m looking to collaborate on full-stack web development<br>🤝 I’m looking for help with<br>🌱 I’m currently learning ML and Android app development with kotlin<br>💬 Ask me about anything<br>⚡ Fun fact : I like reading books and writing poems. I do have pets and they are Cokatiels.
 
 
-<h3 align="left">Connect with me:</h3>
+# 🤝 Socials:
 <p align="left">
 <a href="https://twitter.com/moliulsiddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moliulsiddique" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/m-aliul-siddique-antor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-aliul-siddique-antor" height="30" width="40" /></a>
